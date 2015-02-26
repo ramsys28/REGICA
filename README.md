@@ -5,7 +5,8 @@ Manousos A. Klados, Christos Papadelis, Christoph Braun, Panagiotis D. Bamidis, 
 Go to http://mklados.com/index.php?option=com_k2&view=item&layout=item&id=25&Itemid=16 for more information
 
 EOG Artifact Rejection using REGICA (REGICA v1.0) 1.0 plug-in for EEGLAB, Release 26-01-2011 
- Author: Manousos Klados 
+
+Author: Manousos Klados 
          Group of Applied Neurosciences
          Lab of Medical Informatics
          Medical School
