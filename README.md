@@ -15,7 +15,7 @@ Author: Manousos Klados
          Greece
  
          e-mail: mklados (at) gmail.com
-         Personal Page: http://mklados.com 
+         Personal Page: http://www.mklados.com 
 
  Installation instructions:
  1) Install EEGLAB toolbox for Matlab (http://www.sccn.ucsd.edu/eeglab/). 
